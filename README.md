@@ -35,4 +35,15 @@ I explored the sales data to answer key questions such as :
 - What's the units sold by country?
 
 
-### 
+### Findings and Recommendations
+
+- Chocolate Chip generated the most revenue
+- October is the most performing month in terms of profit
+- Philippines should be targeted for marketing efforts
+- Focus on expanding and promoting snickerdoodle product
+- Implement a customer segmentation strategy to target high-LTV customers effectively
+
+
+### Limitations
+
+I had to remove all zero values from the profit and revenue columns because they would have affected the accuracy of my conclusions from the analysis.
