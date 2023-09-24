@@ -32,7 +32,8 @@ I explored the sales data to answer key questions such as :
 - What are total units sold, total costs and total revenue?
 - What are the peak sales period?
 - What's the product with the most profit?
-- What's the units sold by country?
+- What's the country with the most profit?
+- What's the units sold by country and product?
 
 
 ### Findings and Recommendations
